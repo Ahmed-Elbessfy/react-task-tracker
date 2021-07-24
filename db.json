@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "complete cs50",
+      "day": "Fri 10 Sep. 12:00 am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Google IT course",
+      "day": "Sun 5 Aug. 5:00 am",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Traversy media courses",
+      "day": "mon 11 May 01:00 pm",
+      "reminder": false
+    },
+    {
+      "id": 3171,
+      "text": "interview",
+      "day": "roday 12:30 am",
+      "reminder": true
+    }
+  ]
+}
